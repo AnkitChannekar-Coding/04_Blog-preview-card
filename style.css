@@ -65,7 +65,7 @@ body {
   font-weight: 700;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 375px) {
   .container {
     background-color: white;
     height: 500px;
